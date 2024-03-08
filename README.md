@@ -30,4 +30,5 @@ Here are some ideas to get you started:
   - I’m an avid traveler.
   - I’m passionate about exploring the intersection of technology and art.
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzy2275)
+![Zhouyou Lai's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzy2275)
+[![Zhouyou Lai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lzy2275&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
