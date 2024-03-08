@@ -13,7 +13,6 @@ Here are some ideas to get you started:
   - Python
   - Cloud computing
   - Machine learning
-  - Python
 - 👯 I’m looking to collaborate on ...
   - Open-source projects
   - Mentoring beginners
