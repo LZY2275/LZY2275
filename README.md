@@ -35,12 +35,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzy2275&show_icons=true&layout=compact&bg_color=45,839ece,8ecda7&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzy2275/lzy2275/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzy2275/lzy2275/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lzy2275/lzy2275/output/github-contribution-grid-snake.svg">
-</picture>
-<br/>
-
 
 [![Zhouyou Lai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lzy2275&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
